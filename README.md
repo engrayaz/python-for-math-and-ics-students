@@ -18,10 +18,15 @@ Each lecture includes:
 
 ## 📝 Repository Contents
 
-- `Lecture01_Quadratic_Roots.ipynb` – Solving quadratic equations  
-- `Lecture02_DataStructures.ipynb` – Python lists, tuples, dictionaries, and loops  
-- `Lecture03_Functions.ipynb` – Python functions and modular code  
-- `Lecture04_Matrices.ipynb` – Introduction to NumPy and matrix operations  
+1. `Python Program to Solve Quadratic Equation` – Beginner Tutorial
+2. `Solving Physics and Math Equations Using Python` – Beginner Examples
+3. `Relational Operators in Python Explained for Beginners`
+4. `Logical Operators in Python` – Simple Explanation with Examples
+5. `If-Else Statements in Python` – Conditional Programming Made Easy
+6. `For Loop in Python` – Step-by-Step Guide for Beginners
+7. `While Loop in Python` – Complete Beginner Tutorial
+8. `Built-in Functions in Python Every Beginner Must Know`
+9. `User-Defined Functions in Python` – Create Your Own Functions
 - ...more lectures will be added weekly  
 
 ---
