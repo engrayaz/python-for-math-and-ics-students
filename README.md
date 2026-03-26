@@ -7,8 +7,16 @@ You’ll learn Python step-by-step through **real math and engineering problems*
 ---
 
 ## 📺 YouTube Lecture Series
-Watch the full lecture series here: [Python for Math & ICS Students](https://www.youtube.com/channel/UC9pW_Xh3wVD4iGX3disWT2w)
+Watch the full lecture series here:  
+👉 [Python for Math & ICS Students](https://www.youtube.com/playlist?list=PLYYW8KhsSG4Ba9LiqLdE3Jl5wZO3DzF_Y)
 
+📺 YouTube Channel:  
+👉 https://www.youtube.com/@signalsandsystems7972
+
+Each lecture includes:
+- Step-by-step coding in Jupyter Notebook  
+- Real-world math or engineering examples  
+- Beginner-friendly explanations  
 Each lecture includes:
 - Step-by-step coding in Jupyter Notebook  
 - Real-world math or engineering examples  
