@@ -1,0 +1,46 @@
+# How to Check Data Types in Python (type() Function)
+
+This lecture explains how to check the data type of variables in Python using the built-in `type()` function.
+
+---
+
+## 📺 Watch Lecture
+https://www.youtube.com/watch?v=s1rZFoARJ0g
+
+---
+
+## 📚 Topics Covered
+
+- How to check data type in Python
+- Built-in `type()` function
+- Examples with:
+  - Integer (int)
+  - Float (float)
+  - String (str)
+  - Boolean (bool)
+  - Complex numbers
+- Practical coding examples
+- Importance of `type()` in debugging
+Who is this for?
+ICS Students
+FSc Students
+Engineering Students
+Beginners in Python
+🧠 Learning Outcome
+
+After this lecture, you will be able to:
+
+Check the data type of any variable in Python
+Use type() function effectively
+Understand different data types through examples
+Debug simple programs
+🔗 Full Course Playlist
+
+https://www.youtube.com/playlist?list=PLYYW8KhsSG4Ba9LiqLdE3Jl5wZO3DzF_Y
+
+👨‍🏫 Instructor
+
+Dr. Syed Ayaz Ali Shah
+Assistant Professor | Artificial Intelligence | Machine Learning
+
+⭐ If you find this helpful, consider starring the repository and subscribing to the channel.
