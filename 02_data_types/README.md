@@ -16,7 +16,6 @@ https://www.youtube.com/watch?v=Kd0JJ7jX4tE
 - Floating Point Numbers (float)
 - Strings (str)
 - Boolean (bool)
-- Using the type() function
 - Simple coding examples
 
 ---
